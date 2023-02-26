@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Microservices Architecture with Spring Boot</title>
+    
 </head>
 <body>
     <h1>Microservices Architecture with Spring Boot, Eureka Server, Config Server, and API Gateway</h1>

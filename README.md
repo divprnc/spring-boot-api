@@ -56,12 +56,12 @@ Copy code
 
 <ol>
     <li>Clone the repository.</li>
-    <li>Start the Config Server.</li>
     <li>Start the Eureka Server.</li>
+    <li>Start the Config Server.</li>
+    <li>Start the API Gateway.</li>
     <li>Start the Department Service.</li>
     <li>Start the Employee Service.</li>
     <li>Start the Organisation Service.</li>
-    <li>Start the API Gateway.</li>
 </ol>
 
 <h2>Conclusion</h2>

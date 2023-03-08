@@ -7,8 +7,6 @@
 </head>
 <body>
     <h1>Microservices Architecture with Spring Boot, Eureka Server, Config Server, and API Gateway</h1>
-less
-Copy code
 <p>This is a sample microservices architecture project built with Spring Boot, Eureka Server, Config Server, and API Gateway. The project contains three microservices: employee-service, organisation-service, and department-service, each registered with the Eureka Server, and a Config Server that gets its configuration from Git. The API Gateway acts as a single entry point for all the microservices, providing load balancing and circuit breaker implementations.</p>
 
 <h2>Components and Libraries Used</h2>
